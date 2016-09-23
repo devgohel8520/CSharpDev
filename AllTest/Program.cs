@@ -10,6 +10,7 @@ namespace AllTest
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
